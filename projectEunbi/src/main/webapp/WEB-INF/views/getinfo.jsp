@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<form method="GET" action="/app/info">
+<form method="GET" action="/info">
 	ID : <input type=text name=userid><br>
 	주소 : <input type=text name=address><br>
 	<input type=submit value="전송">
